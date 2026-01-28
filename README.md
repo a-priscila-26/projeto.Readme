@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-Br">
-<```html
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
